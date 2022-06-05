@@ -1,4 +1,4 @@
-package yandex.praktikum;
+package yandex.praktikum.apiData;
 
 public class ProfileCourierData {
     private String login;
